@@ -1,5 +1,5 @@
 # gmapstoexcel
-
+# FULL VIBED!!! SOMEONE NEEDED, A MENI VPADLU V TOMO SILNO ROZBIRATSA
 A Python project that:
 
 1. searches businesses with **Google Places API (New)**
